@@ -24,3 +24,19 @@ print("\nInverted dictionary (dict1):", inverted)
 
 inverted2 = invert_dict(merged)
 print("\nInverted merged dictionary:", inverted2)
+
+
+''' 
+Original dictionaries:
+dict1: {'a': 1, 'b': 2, 'c': 3}
+dict2: {'b': 2, 'c': 4, 'd': 5}
+dict3: {'c': 3, 'd': 5, 'e': 6}
+
+Merged dictionary: {'a': 1, 'b': 2, 'c': 3, 'd': 5, 'e': 6}
+
+Common keys: {'c'}
+
+Inverted dictionary (dict1): {1: 'a', 2: 'b', 3: 'c'}
+
+Inverted merged dictionary: {1: 'a', 2: 'b', 3: 'c', 5: 'd', 6: 'e'}
+'''

@@ -40,3 +40,40 @@ print("Min value:", mlf.min_value(list5))
 print("Sum:", mlf.sum_list(list5))
 print("Average:", mlf.average_list(list5))
 print("Median:", mlf.median_list(list5))
+
+''' 
+List 1: [0, 6, 9, 3, 8, 7, 1, 5, 4, 2]
+Max value: 9
+Min value: 0
+Sum: 45
+Average: 4.5
+Median: 4.5
+
+List 2: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+Max value: 81
+Min value: 0
+Sum: 285
+Average: 28.5
+Median: 20.5
+
+List 3: [2, 4, 6, 8, 10]
+Max value: 10
+Min value: 2
+Sum: 30
+Average: 6.0
+Median: 6
+
+List 4: [-5, -4, -3, -2, -1, 0, 1, 2, 3, 4]
+Max value: 4
+Min value: -5
+Sum: -5
+Average: -0.5
+Median: -0.5
+
+List 5: [67, 32, 5, 6, 76, 87, 4, 6, 7, 8, 43]
+Max value: 87
+Min value: 4
+Sum: 341
+Average: 31.0
+Median: 8
+'''

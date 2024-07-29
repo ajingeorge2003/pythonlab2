@@ -49,3 +49,13 @@ print(f"Number of days with temperatures above 30°C: {days_above_30_count}")
 
 avg_humidity = average_humidity(weather_data)
 print(f"Average Humidity: {avg_humidity:.2f}%")
+
+'''
+Highest Temperature: 35°C on 2024-08-06
+Highest Temperature: 35°C on 2024-08-06
+Lowest Temperature: 18°C on 2024-08-09
+Number of days with temperatures above 30°C: 6
+Lowest Temperature: 18°C on 2024-08-09
+Number of days with temperatures above 30°C: 6
+Number of days with temperatures above 30°C: 6
+'''
